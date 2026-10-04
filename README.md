@@ -35,7 +35,7 @@ Design: `suitKit/SORENESS_ATTRIBUTION_PLAN.md`.
 
 ## Shared sets
 
-`RecentSets` is the file torque writes to the `group.com.sphericalwave.suit` App Group
+`RecentSets` is the file torque writes to the `group.com.sphericalwave.fitwrench.suit` App Group
 (`recent-sets.json`, last 8 days) and suit reads. On device only.
 
 ## Requirements
