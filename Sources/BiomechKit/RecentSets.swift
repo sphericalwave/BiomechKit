@@ -9,7 +9,7 @@
 import Foundation
 
 public struct RecentSets: Codable, Sendable {
-    public static let appGroupID = "group.com.sphericalwave.suit"
+    public static let appGroupID = "group.com.sphericalwave.fitwrench.suit"
     public static let fileName = "recent-sets.json"
     public static let window: TimeInterval = 8 * 24 * 3600
 
